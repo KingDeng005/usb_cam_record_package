@@ -1,0 +1,10 @@
+# this is a README for the package
+# this package is specially made for video/audio stream recording
+# integrated/created by Fuheng Deng on 6/26/2017
+
+1. git clone git@github.com:KingDeng005/usb_cam_record_package.git to your local folder
+2. cd into the folder, open up the terminal, type in "catkin_make"
+3. add the path of devel/setup.bash to your ~/.bashrc file
+4. source ~/.bashrc
+
+Let me know if you have any question at: fuheng.deng@tusimple.ai
